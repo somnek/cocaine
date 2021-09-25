@@ -8,4 +8,7 @@ def index():
 @app.route('/greet')
 def say_hello():
   return 'Hello from Server'
-  
+
+
+#if __name__ == '__main__':
+#    app.run(host="localhost", port=7777, debug=True)
