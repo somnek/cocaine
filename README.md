@@ -1,4 +1,1 @@
-## git init
-## git remote add origin https://github.com/somnek/cocaine
-## git push -u origin master
-
+I don't fucking know dude wtf, u tell me, L
