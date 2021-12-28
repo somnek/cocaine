@@ -7,7 +7,15 @@ def index():
   
 @app.route('/greet')
 def say_hello():
-  return 'testsss'
+  return ['testsss', 'x']
+
+"""
+ !addpoints rimastino -100k
+
+  !filesay {url of filename.txt}
+
+
+"""
 
 
 #if __name__ == '__main__':
